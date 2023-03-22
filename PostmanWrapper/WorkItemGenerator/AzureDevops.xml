@@ -5,7 +5,7 @@
     <Project>ACT GRDC Training</Project>
   </Connection>
   <TestCase>
-    <AreaPath>MyAreaPathInADO</AreaPath>
+    <AreaPath>ACT GRDC Training</AreaPath>
     <CustomFields>
       <!--CustomField id="MyCustomType1" defaultvalue="Value1"/-->
       <!-->CustomField id="MyCustomType2" defaultvalue="Value2"/-->
