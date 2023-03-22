@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Data>
   <Connection>
-    <Url>MyUrlToADO</Url>
-    <Project>MyProjectName</Project>
+    <Url>https://dev.azure.com/ElysiumDigital-ACT</Url>
+    <Project>ACT GRDC Training</Project>
   </Connection>
   <TestCase>
     <AreaPath>MyAreaPathInADO</AreaPath>
